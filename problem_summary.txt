@@ -1,0 +1,484 @@
+================================================================================
+PROBLEM SUMMARY REPORT
+================================================================================
+
+1. MISSING FILES:
+   - R13.csv
+   - R9.csv
+
+2. PARTICIPANTS WITH ISSUES:
+
+Participant 1:
+   - File loaded successfully
+   - Total rows in file: 170
+   - Markers found in data:
+     * Angular Measure
+     * Experiment.End
+     * Experiment.Start
+     * Eyetracking
+     * Hrv Band
+     * Joystick
+     * Point
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+   - Task 7: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4B-R (4210)
+     * Task 10: 4A-L (4115)
+     * Task 11: 5B-L (5214)
+     * Task 12: 5A-R (5119)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '8', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 3:
+   - File loaded successfully
+   - Total rows in file: 218
+   - Markers found in data:
+     * Angular Measure
+     * Experiment.End
+     * Experiment.Start
+     * Eyetracking Record
+     * Hrv Band Record
+     * Joystick
+     * Point
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+   - Task 6: No valid points found
+   - Task 7: No valid points found
+   - Task 8: No valid points found
+   - Task 11: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4A-L (4115)
+     * Task 10: 4B-R (4210)
+     * Task 11: 5B-L (5214)
+     * Task 12: 5A-R (5119)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)']
+
+Participant 5:
+   - File loaded successfully
+   - Total rows in file: 205
+   - Markers found in data:
+     * Angular Measure
+     * Experiment.End
+     * Experiment.Start
+     * Eyetracking Record
+     * Hrv Band Record
+     * Joystick
+     * Point
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+   - Task 11: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 5B-L (5214)
+     * Task 10: 5A-R (5119)
+     * Task 11: 4B-R (4210)
+     * Task 12: 4A-L (4115)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '7', '8', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 8:
+   - File loaded successfully
+   - Total rows in file: 2201
+   - Markers found in data:
+   - Could not load file for marker analysis
+   - Failed to load data file
+   - Expected tasks 9-12:
+     * Task 9: 5A-R (5119)
+     * Task 10: 5B-L (5214)
+     * Task 11: 4A-L (4115)
+     * Task 12: 4B-R (4210)
+   - No data in final output
+
+Participant 10:
+   - File loaded successfully
+   - Total rows in file: 194
+   - Markers found in data:
+     * Angular Measure
+     * Experiment.End
+     * Experiment.Start
+     * Eyetracking Record
+     * Hrv Band Record
+     * Joystick Record
+     * Point
+     * Research Camera
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 Start
+     * Task4 End
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+   - Task 3: No valid points found
+   - Task 4: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4B-R (4210)
+     * Task 10: 4A-L (4115)
+     * Task 11: 5A-R (5119)
+     * Task 12: 5B-L (5214)
+   - Tasks in final output: ['1', '2', '5', '6', '7', '8', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 12:
+   - File loaded successfully
+   - Total rows in file: 193
+   - Markers found in data:
+     * Angular Measure
+     * Experiment.Start
+     * Eyetracking Record
+     * Hrv Band Record
+     * Joystick Record
+     * Point
+     * Research Camera
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+   - Task 7: No valid points found
+   - Task 11: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4A-L (4115)
+     * Task 10: 4B-R (4210)
+     * Task 11: 5B-L (5214)
+     * Task 12: 5B-L (5214)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '8', '4B-R (4210)', '4A-L (4115)', '5B-L (5214)']
+
+Participant 16:
+   - File loaded successfully
+   - Total rows in file: 293
+   - Markers found in data:
+     * Angular Measure?
+     * Experiment.Start
+     * Eyetracking Record?
+     * Iphone?
+     * Joystick Record?
+     * Point
+     * Research Camera?
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 Start
+     * Watch Record?
+   - Task 9: No valid points found
+   - Task 10: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 5B-L (5214)
+     * Task 10: 5A-R (5119)
+     * Task 11: 4A-L (4115)
+     * Task 12: 4B-R (4210)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '7', '8', '4B-R (4210)', '4A-L (4115)']
+
+Participant 18:
+   - File loaded successfully
+   - Total rows in file: 170
+   - Markers found in data:
+     * Angular Measure?
+     * Experiment.Start
+     * Eyetracking Record?
+     * Iphone?
+     * Joystick Record?
+     * Point
+     * Research Camera?
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+     * Watch Record?
+   - Task 5: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4B-R (4210)
+     * Task 10: 4A-L (4115)
+     * Task 11: 5B-L (5214)
+     * Task 12: 5A-R (5119)
+   - Tasks in final output: ['1', '2', '3', '4', '6', '7', '8', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 27:
+   - File loaded successfully
+   - Total rows in file: 190
+   - Markers found in data:
+     * Angular Measure?
+     * Experiment.Start
+     * Eyetracking Record?
+     * Iphone?
+     * Joystick Record?
+     * Point
+     * Research Camera?
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task13 End
+     * Task13 Start
+     * Task14 End
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+     * Watch Record?
+   - Task 4: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4B-R (4210)
+     * Task 10: 4A-L (4115)
+     * Task 11: 5A-R (5119)
+     * Task 12: 5B-L (5214)
+   - Tasks in final output: ['1', '2', '3', '5', '6', '7', '8', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 44:
+   - File loaded successfully
+   - Total rows in file: 299
+   - Markers found in data:
+     * Angular Measure?
+     * Experiment.Start
+     * Eyetracking Record?
+     * Iphone?
+     * Joystick Record?
+     * Point
+     * Research Camera?
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+     * Watch Record?
+   - Task 10: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4A-L (4115)
+     * Task 10: 4B-R (4210)
+     * Task 11: 5B-L (5214)
+     * Task 12: 5A-R (5119)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '7', '8', '4A-L (4115)', '5A-R (5119)', '5B-L (5214)']
+
+Participant 69:
+   - File loaded successfully
+   - Total rows in file: 104
+   - Markers found in data:
+     * Angular Measure?
+     * Experiment.Start
+     * Eyetracking Record?
+     * Iphone?
+     * Joystick Record?
+     * Point
+     * Research Camera?
+     * Task1 End
+     * Task1 Start
+     * Task10 End
+     * Task10 Start
+     * Task11 End
+     * Task11 Start
+     * Task12 End
+     * Task12 Start
+     * Task13 Start
+     * Task14 Start
+     * Task2 End
+     * Task2 Start
+     * Task3 End
+     * Task3 Start
+     * Task4 End
+     * Task4 Start
+     * Task5 End
+     * Task5 Start
+     * Task6 End
+     * Task6 Start
+     * Task7 End
+     * Task7 Start
+     * Task8 End
+     * Task8 Start
+     * Task9 End
+     * Task9 Start
+     * Watch Record?
+   - Task 12: No valid points found
+   - Expected tasks 9-12:
+     * Task 9: 4A-L (4115)
+     * Task 10: 4B-R (4210)
+     * Task 11: 5A-R (5119)
+     * Task 12: 5B-L (5214)
+   - Tasks in final output: ['1', '2', '3', '4', '5', '6', '7', '8', '4B-R (4210)', '4A-L (4115)', '5A-R (5119)']
